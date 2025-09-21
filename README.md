@@ -1,4 +1,4 @@
-# Hello, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Alessandro Cesa
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Alessandro Cesa
 
 - 👨🏻‍💻 Currently working as a Machine Larning Engineer at [Circle](https://www.circlegroup.eu/), developing ML models for maritime port flows forecasting.
 
