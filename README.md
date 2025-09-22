@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Currently working as a Machine Larning Engineer at [Circle](https://www.circlegroup.eu/), developing ML models for maritime port flows forecasting.
 
-𝞹 Bachelor Degree in [Mathematics](https://lauree.units.it/it/0320106203500001) at the [University of Trieste](https://portale.units.it/it)
+𝞹 Bachelor's Degree in [Mathematics](https://lauree.units.it/it/0320106203500001) at the [University of Trieste](https://portale.units.it/it)
 
 💻 Master's Degree in [Data Science and Scientific Computing](https://dssc.units.it/) at the [University of Trieste](https://portale.units.it/it)
 
