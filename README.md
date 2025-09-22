@@ -9,9 +9,7 @@
 
 
 
-### 📫 How to reach me:
+### 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:alessandro.cesa22@gmail.com)](mailto:)&nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-cesa-60033b310/)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:alessandro.cesa22@gmail.com)](mailto:)&nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-cesa-60033b310/)
 
 
