@@ -5,7 +5,7 @@
 - 𝞹 Bachelor Degree in [Mathematics](https://lauree.units.it/it/0320106203500001) at the [University of Trieste](https://portale.units.it/it)
 - 💻 Master's Degree in [Data Science and Scientific Computing](https://dssc.units.it/) at the [University of Trieste](https://portale.units.it/it)
 
-### 📄 Take a look at my [![CV Badge](https://img.shields.io/badge/-CV-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](Alessandro_Cesa_CV.pdf)
+### 📄 [Take a look at my CV](./Alessandro_Cesa_CV.pdf)
 
 
 ### 📫 How to reach me:
