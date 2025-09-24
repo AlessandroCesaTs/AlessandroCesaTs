@@ -12,8 +12,8 @@
 ### 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:alessandro.cesa22@gmail.com)](mailto:)&nbsp; [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-cesa-60033b310/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCesaTs&layout=compact&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCesaTs&layout=compact&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCesaTs&layout=compact&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCesaTs&layout=compact&theme=default&hide_border=true" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCesaTs&layout=compact&theme=default" />
 </picture>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroCesaTs&layout=compact&theme=dark) -->
