@@ -1,6 +1,6 @@
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Alessandro Cesa
 
-- Currently working as a Machine Larning Engineer at [Circle](https://www.circlegroup.eu/), developing ML models for maritime port flows forecasting.
+- Currently working as a Machine Larning Engineer at [InSilico Trials]([https://www.circlegroup.eu/](https://insilicotrials.com/)), developing ML models for clinical simulations synthetic data generation.
 
 -  Master's Degree in [Data Science and Scientific Computing](https://dssc.units.it/) at the University of Trieste
 
