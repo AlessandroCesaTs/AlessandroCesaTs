@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Alessandro Cesa hehehhe
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">, I'm Alessandro Cesa
 
 - Currently working as a Machine Larning Engineer at [InSilico Trials](https://insilicotrials.com/), developing ML models for clinical simulations synthetic data generation.
 
